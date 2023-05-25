@@ -1,24 +1,16 @@
-# Getting Started with Create React App
+# Expence Tracker App
+This project can be accessed here: https://smriti-sk.github.io/Expense-Tracker-App/
+<hr>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Expense Tracker App is a powerful tool developed using React.js that empowers you to take control of your personal finances. With an intuitive user interface and a range of functionalities, our app simplifies expense tracking, allowing you to monitor your spending, view transaction history, and maintain a healthy financial balance effortlessly._
 
-## Available Scripts
+## Key Features:
 
-In the project directory, you can run:
+- **Seamless Transaction Recording:** Our Expense Tracker App enables you to effortlessly add transactions, making it convenient to log your expenses and income. Simply enter the transaction details, including the amount, category, date, and any additional notes, and the app will handle the rest.
 
-### `npm start`
+- **Comprehensive Transaction History:** Stay organized and gain valuable insights into your financial activities by accessing your complete transaction history. With just a few clicks, you can review your past transactions, helping you identify spending patterns and make informed decisions about your future expenses.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Real-time Balance Tracking:** The app's intelligent balance tracking feature provides you with an up-to-date snapshot of your financial position. By factoring in both your income and expenses, it calculates your current balance, ensuring you have a clear overview of your financial health at any given time.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
 
